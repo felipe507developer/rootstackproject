@@ -1,0 +1,93 @@
+{
+    "posts": [
+      {
+        "Title": "The Panama Canal",
+        "Ubicacion": "Panamá",
+        "Descripion": "The Panama Canal offers a unique spectacle to see the ships crossing two oceans. The Miraflores Visitor Center offers, in addition to the views, a 3D film projection and all the history of the Canal.",
+        "Horario":"8:00 a.m. – 5:00 p.m.",
+        "id": 0,
+        "img": "/db_images/33.jpg"
+      },
+      {
+        "Title": "Casco Antiguo",
+        "Ubicacion": "Panamá",
+        "Descripion": "It is undoubtedly one of the tourist places in Panama that should not be missed, is the Casco Antiguo de Panama, in Panama City. The orange tile roofs and Spanish colonial architecture of the old town of Panama City are in contrast with the skyscrapers of the bay. It also has a very attractive nightlife for both locals and foreigners.",
+        "Horario":"Open 24 hours a day",
+        "id": 1,
+        "img": "/db_images/PTY-CITY-Y-CANAL-01.jpg"
+      },
+      {
+        "Title": "Biodiversity Museum, by Frank Gehry",
+        "Ubicacion": "Amador Avenue, Amador Causeway, Ancón",
+        "Descripion": "The Biomuseo - a powerful conjunction of science and art - is a natural history museum dedicated to Panama that explores the relationship between its biodiversity and its culture. In 8 exhibits it tells the story of the rise of the Isthmus of Panama 3 million years ago, and how that rise united continents and divided seas, changing the world forever. The museum's controversial design is the only one of its kind in the entire region. Designed by famed architect Frank Gehry, in his first foray into Latin America. ",
+        "Horario":"Tuesday to Friday 10 a.m - 4 p.m. Saturday and Sunday 10 a.m - 5 p.m.",
+        "id": 2,
+        "img": "/db_images/j9a_pma_biomuseo_14.jpg"
+      },
+      {
+        "Title": "The Seafood Market",
+        "Ubicacion": "Wholesale Seafood Market B15",
+        "Descripion": "It is considered the best place to eat in Panama City, with a good restaurant that attracts tourists and several stalls full of people tasting freshly caught ceviche accompanied by crackers and hot peppers.",
+        "Horario":"Monday to Sunday 5:00 a.m – 6:00p.m.",
+        "id": 3,
+        "img": "/db_images/fish-market-499607.jpg"
+      },
+      {
+        "Title": "Gorgona Beach",
+        "Ubicacion": "Gorgona, Province of West Panama.",
+        "Descripion": "Gorgona Beach, 50 minutes from Panama City. Gorgona is a quiet and familiar place. It is an ideal place to escape from the hustle and bustle of the city or as a tourist destination for your vacation! Surrounded by nature, it has three black and white sand beaches. Among them, Malibu Beach, famous as a surf spot; Black Sand, commonly used by fishermen. Due to its proximity to the city, Gorgona is one of the most popular beaches as a tourist destination.",
+        "Horario":"Monday to Sunday 8:00 am a 3:00 pm.",
+        "id": 4,
+        "img": "/db_images/gorgona-1.jpg"
+      },
+      {
+        "Title": "Cerro La Gaita",
+        "Ubicacion": "Sendero Mirador Ecológico Cerro la Gaita, Anton Valley",
+        "Descripion": "Cerro La Gaita is located within the Altos del Maria residential area, in the province of West Panama, just 1.5 km from Sora.        Take the Panamerican Highway to Bejuco. Take the highway towards Sora and drive about 20 minutes. After Sora, drive a few more minutes until you find the Altos del Maria checkpoint.",
+        "Horario":"Open 24 hours a day",
+        "id": 5,
+        "img": "/db_images/cerro-la-gaita-cocle-panama-0139.jpg"
+      },
+      {
+        "Title": "Punta Chame Beach",
+        "Ubicacion": "Punta Chame, Province of West Panama.",
+        "Descripion": "Punta Chame is a popular windsurfing spot along Chame Bay in central Panama. Punta is at the end of a long, thin peninsula, bordered by shrimp farms and mangroves. It is only an hour and a half drive from Panama City, making it a popular spot for adrenaline junkies from the city. In a way, this is a place to get away from it all, as there is only one windsurfing school, a few lodgings and a few residences.",
+        "Horario":"Monday to Sunday 6:00 am a 5:00 pm.",
+        "id": 6,
+        "img": "/db_images/playa-punta-chame-503678.webp"
+      },
+      {
+        "Title": "Chicá",
+        "Ubicacion": "Chicá/Chame/Province of West Panama.",
+        "Descripion": "Chicá is a small village located about 70 kms from the capital city, within the district of Chame. Its entrance is easy to recognize, it is located at kilometer 61 on Campana hill. It owes its name to the cacique who ruled these lands at the time of the arrival of the Spaniards in 1519. Everywhere the impressive views of the blue-green mountains in the confines of the district of Capira, accompanied even by winding estuaries in the Bay of Chame, where the feeling of serenity that transmits the water is complemented by the figures of the trees unfolds. This small village offers visitors a compendium of popular architecture and craft traditions where the sale of flowers is the main economic activity.",
+        "Horario":"Open 24 hours a day",
+        "id": 7,
+        "img": "/db_images/chica.jpg"
+      },
+      {
+        "Title": "El Chorro de La Chorrera",
+        "Ubicacion": "",
+        "Descripion": "El Chorro de La Chorrera is also part of the ecotourism offered by Panama Oeste, a perfect destination for ecological recreation.",
+        "Horario":"Open 24 hours a day",
+        "id": 8,
+        "img": "/db_images/chorro-de-la-chorrera.jpg"
+      },
+      {
+        "Title": "Pozo Azul Waterfall",
+        "Ubicacion": "El Valle de Anton, El Valle de Anton, Cocle Province",
+        "Descripion": "You will visit the waterfalls of Las Pailas, located in Pozo Azul (about 45 minutes from El Valle), enjoy swimming in the crystal clear waters, challenge yourself with cliff jumping if you wish, and immerse yourself in the wonders of the beautiful nature that surrounds you.",
+        "Horario":"Monday to Sunday 8:00 am a 5:00 pm.",
+        "id": 9,
+        "img": "/db_images/pozo-azul3.jpg"
+      },
+      {
+        "Title": "Sendero India Dormida",
+        "Ubicacion": "Anton Valley, Province of Cocle.",
+        "Descripion": "The trail begins paved until you cross the Quebrada La Pintada and reach the Piedra Pintada. From there it becomes a stone and dirt trail and you begin to ascend all at once. The trail is used by members of the community and if you don't know the route you may pass the path that takes you to India Dormida. The view is spectacular. From the top you will be able to see the entire community of El Valle de Anton and you can appreciate what was once a volcano, as the current community is located in the crater. On the way down cool off as there are several points where you can get into the river. ",
+        "Horario":"Monday to Sunday 7:45 am a 4:00 pm.",
+        "id": 10,
+        "img": "/db_images/india-dormida-valle-anton.jpg"
+      }
+
+    ]
+}
