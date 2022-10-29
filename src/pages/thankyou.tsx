@@ -8,7 +8,7 @@ const Thankto: NextPage = () => {
   return (
 
     
-    <AplicationWrapperIndex title="Resort" description="Roostack | NextJs Course">
+    <AplicationWrapperIndex title="AVTour" description="Roostack | NextJs Course">
         <ThankstoRoostack />
     </AplicationWrapperIndex>
 
