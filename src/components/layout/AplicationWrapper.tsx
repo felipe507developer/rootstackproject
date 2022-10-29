@@ -45,7 +45,8 @@ export const AplicationWrapper: FC<PropsWithChildren<Tprops>> = ({
           </Link>
 
           <Link href="/sites">Sites</Link>
-          <Link href="/about" className="items-end">About us</Link>
+          <Link href="/about">About us</Link>
+          <Link href="/thankyou">Thank to</Link>
         </nav>
       </header>
 

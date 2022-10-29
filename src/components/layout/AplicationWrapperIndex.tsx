@@ -24,7 +24,7 @@ export const AplicationWrapperIndex: FC<PropsWithChildren<Tprops>> = ({
         <footer className="flex p-6 h-[15] font-extralight items-center justify-center bg-white text-black">
           <Link href="" target="_blank" rel="">
             Created by <strong>Felipe Pérez Martínez</strong> -
-            <strong>perezfelipe8877@gmail</strong>
+            <strong>perezfelipe8877@gmail.com</strong>
           </Link>
         </footer>
       </main>
