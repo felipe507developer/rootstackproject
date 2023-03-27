@@ -11,6 +11,7 @@ interface Tprops{
 
 const SiteDetail: NextPage<Tprops> = ({ site }) => {
   return (
+    <meta name="google-site-verification" content="Hkj9zXK4-B6OcavW1dme-Pc13NjrVb8_i2cxjL7fBns" />
     <AplicationWrapper title='VTours' description='avdenture tour'>
         <SiteDetails
           title={site.Title} 
